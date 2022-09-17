@@ -19,4 +19,4 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 # iPad View
 
 ![image](https://user-images.githubusercontent.com/91051053/190868747-560fd0ca-a044-4d1d-8b1c-d795e0f6d4d2.png)
-#Mobile View
+# Mobile View
